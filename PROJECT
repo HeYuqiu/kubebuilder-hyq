@@ -1,0 +1,7 @@
+domain: hyq.io
+repo: hyq.io/kubebuilder-hyq
+resources:
+- group: webapp
+  kind: Guestbook
+  version: v1
+version: "2"
